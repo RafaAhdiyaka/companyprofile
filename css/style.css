@@ -1,0 +1,124 @@
+.navbar{
+    background-image: linear-gradient(to right,#DA4453,#89216B);
+}
+
+#hero{
+    padding-top: 3%;
+    background-image: linear-gradient(to right,#DA4453,#89216B);
+}
+
+#hero img{
+    height: 350px;
+}
+
+#service{
+    margin-top: -5%;
+    margin-bottom: 50px;
+}
+
+.garis{
+    width: 150px;
+    height: 10px;
+    position: relative;
+    border-bottom: 2px solid #89216B;
+    margin: -5px auto 0;
+}
+
+.garis1{
+    width: 250px;
+    height: 10px;
+    position: relative;
+    border-bottom: 2px solid #89216B;
+    margin: -5px auto 0;
+    margin-bottom: 85px;
+}
+
+#service img{
+    height: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.font14{
+    font-size: 14px;
+}
+
+#service button{
+    margin-top: 40px;
+    background-image: linear-gradient(to right,#DA4453,#89216B);
+    width: 120px;
+    font-size: 14px;
+}
+
+#about{
+    background-color: #f1f2f6;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+#about img{
+    margin-top: -15%;
+}
+
+#testimonial{
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.garis2{
+    width: 250px;
+    height: 10px;
+    position: relative;
+    border-bottom: 2px solid #89216B;
+    margin: -5px auto 0;
+    margin-bottom: 85px;
+}
+
+.card-testi p{
+    font-size: 11px;
+    font-weight: lighter;
+}
+
+.card-testi{
+    border-left: 4px solid #89216B;
+}
+
+.card-testi img{
+    width: 50px;
+    height: 50px;
+}
+
+.card-testi span{
+    font-size: 14px;
+}
+
+.card-testi em{
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+#sosmed{ 
+    background-color: #f1f2f6; 
+    padding-top: 50px; 
+} 
+ 
+#sosmed img{ 
+    width: 50px; 
+    height: 50px; 
+} 
+ 
+.list-sosmed a{ 
+    margin-left: 10px; 
+} 
+ 
+#footer{ 
+    background-image: linear-gradient(to right,#DA4453,#89216B); 
+    padding-bottom: 50px; 
+ 
+} 
+ 
+#footer p{ 
+    font-size: 11px; 
+    font-weight: lighter; 
+}
